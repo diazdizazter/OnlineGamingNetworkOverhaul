@@ -1,5 +1,7 @@
 # HappyOnlineGamingNetworkOverhaul v0.4
 # 
+# Tested extensively on Frontier Fiber through Fortnite NAE/NAC servers, July - 2026
+#
 # PowerShell Scripts to make some network card series perform better for competitive play
 # 1: HOGNO_Net_Stack.ps1 - Generic Windows Happy Stack. 
 # Requires limited intervention for nic name.
@@ -20,7 +22,6 @@
 # usage: place .ps1 script inside the PowerShell directory 
 # (this requires intervention on your part)
 # execution ".\_filename_" or ".\filename_.ps1"
-#
 #
 #
 # "Disclaimer: This software is provided 'as-is,' without any warranties or guarantees of any kind. Use at your own risk. The developers are not responsible for any damages, data loss, or unintended effects that may result from using this script. Ensure you understand its functionality and test in a safe environment before applying to critical systems. By using this software, you acknowledge and accept these terms."
