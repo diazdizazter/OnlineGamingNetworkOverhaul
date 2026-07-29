@@ -38,9 +38,9 @@ netsh interface tcp set supplemental template=InternetCustom congestionprovider=
 netsh interface tcp set global ecncapability=enabled
 
 # lower handshake latency
-netsh int tcp set supplemental template=custom icw=10
-netsh int tcp set supplemental template=internet icw=10
-netsh int tcp set supplemental template=internetcustom icw=10
+#not supported under netsh
+# netsh int tcp set supplemental template=internet icw=10
+# netsh int tcp set supplemental template=internetcustom icw=10
 
 # something to normally just leave alone
 netsh interface tcp set global autotuninglevel=normal

@@ -185,6 +185,10 @@ Reg Add $RegPath /v "MaxProcessorNumber" /t REG_DWORD /d 4 /f | Out-Null
 # 3.5 Global Operating System Core-Scaling Flag Ensure
 Set-NetOffloadGlobalSetting -ReceiveSideScaling Enabled | Out-Null
 
+#not supported in netsh
+Set-NetTCPSetting -SettingName Internet -InitialCongestionWindow 10
+Set-NetTCPSetting -SettingName InternetCustom -InitialCongestionWindow 10
+
 Write-Host "Thor is tired, wait... no... he has an energy drink..." -ForegroundColor Green
 Write-Host "Thor was knocked out by a tazer..." -ForegroundColor Green
 
@@ -225,5 +229,3 @@ Write-Host "Genocidal PC sets 'Yay'..." -ForegroundColor Green
 # power setting alterations have been removed from public files 
 # this is the part wherwe I say you are welcome
 # paypal edwin.kelsi54@gmail.com
-
-# if you are unhappy, the net_revert.ps1 file is your friend
