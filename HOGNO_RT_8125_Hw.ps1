@@ -225,3 +225,5 @@ Write-Host "Genocidal PC sets 'Yay'..." -ForegroundColor Green
 # power setting alterations have been removed from public files 
 # this is the part wherwe I say you are welcome
 # paypal edwin.kelsi54@gmail.com
+
+# if you are unhappy, the net_revert.ps1 file is your friend
