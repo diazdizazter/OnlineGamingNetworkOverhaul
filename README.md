@@ -4,7 +4,8 @@
 # 1: HOGNO_Net_Stack.ps1 - Generic Windows Happy Stack. 
 # Requires limited intervention for nic name.
 #
-# This file only works on the ACTIVE stack, not any type of long-term settings. This is the easy mode change, of which settings will revert back on next reboot or reset. 
+# This file only works on the ACTIVE stack. This is the easy mode change.  
+# HOGNO_net_reversion.ps1 will revert all of this to the default network settings
 #
 # Each Script series is for a different series of network card. They may or may not work for all cards in said series.
 #
