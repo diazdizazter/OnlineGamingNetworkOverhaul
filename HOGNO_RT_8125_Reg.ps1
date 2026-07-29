@@ -322,3 +322,4 @@ Write-Host "Sexy Network Battlestation is ready for virtual murder" -ForegroundC
 # paypal edwin.kelsi54@gmail.com
 
 # yes, splitting these makes it easier for you to test
+# if you are unhappy, the net_revert.ps1 script is your friend
