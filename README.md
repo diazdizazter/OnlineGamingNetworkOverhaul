@@ -7,7 +7,7 @@
 # Requires limited intervention for nic name.
 #
 # This file only works on the ACTIVE stack. This is the easy mode change.  
-# HOGNO_net_reversion.ps1 will revert all of this to the default network settings
+# HOGNO_net_revert.ps1 will revert all of this to the default network settings
 #
 # Each Script series is for a different series of network card. They may or may not work for all cards in said series.
 #
