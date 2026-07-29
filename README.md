@@ -7,8 +7,7 @@
 # 2: Registry
 # 3: Hardware
 #
-# Enabling those who do not know better is not my goal, as such, some (limited) user intervention is required. It is expected, but not 
-# required that the user have a small bit of networking experience; however, that is a "you" problem, and not a "me" problem.
+# Enabling those who do not know better has never been my goal, as such, some (limited) user intervention is required. It is expected, but not required, that the user have a small bit of networking experience; however, that is a "you" problem, and not a "me" problem.
 #
 # Each Script series is for a different series of network card.  They may or may not work for all cards in such series.
 # 
