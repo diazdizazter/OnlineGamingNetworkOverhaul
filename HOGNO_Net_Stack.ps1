@@ -3,6 +3,8 @@
 # Windows 11 Network Stack Alignment for Online Gaming™
 # 7.26.26
 
+# https://github.com/diazdizazter/OnlineGamingNetworkOverhaul
+
 # order of operations 
 # net_stack > _Reg > _Hw
 
