@@ -3,6 +3,8 @@
 # Realtek 8125 - Gaming 2.5gbe Family
 # 7.26.26
 
+# https://github.com/diazdizazter/OnlineGamingNetworkOverhaul
+
 # order of operations 
 # net_stack > _Reg > _Hw
 # disclaimer: This file "HOGNO_RT_8125_Hw.ps1" assumes you havbe at least a greater than infintismal modcom of windows network knowledge
