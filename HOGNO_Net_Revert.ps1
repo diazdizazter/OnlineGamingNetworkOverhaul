@@ -1,3 +1,5 @@
+#https://github.com/diazdizazter/OnlineGamingNetworkOverhaul
+
 netsh winsock reset catalog
 Start-Sleep -Seconds 4
 netsh interface ip reset
