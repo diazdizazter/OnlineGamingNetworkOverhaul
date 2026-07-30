@@ -12,6 +12,8 @@
 #             Yes, this file is for Windows 11, Like humans, the inside of every PC OS is different. Your mileage may vary
 #             if you break your stuff, that is a you problem, not a me problem
 
+# full disclaimer: see readme.md and license.md
+
 Write-Host "Locking down your life long lover..." -ForegroundColor Yellow
 # this is the part you go and find out the name of your nic
 # disable so no active infighting occurs
