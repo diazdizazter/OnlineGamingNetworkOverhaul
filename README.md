@@ -3,7 +3,9 @@
 # https://github.com/diazdizazter/OnlineGamingNetworkOverhaul
 
 # Tested extensively on Frontier Fiber through Fortnite NAE/NAC servers, July - 2026
-#
+
+# Happy Online Gaming Network Overhaul v0.4
+
 # Useful for any high-speed, low-drag, rapid reaction, competitive online game, including, but not Limited to: Fortnite, Call of Duty, Battlefield, Garry's Mod, Marvel Rivals, DayZ, PUBG, Roblox, DeltaForce, TF2, Team Fortress 2, CS2, Counter-Strike 2, League of Legends, Rust, Valorant, Apex Legends, Rainbow Six, Minecraft, Escape from Tarkov, Warframe, Minecraft, Dota, Path of Exhile, Palworld, World of Thunder, Arc Raiders, Rocket League and many more!
 #
 # PowerShell Scripts to make some network card series perform better for competitive play
