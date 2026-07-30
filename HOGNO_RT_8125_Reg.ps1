@@ -3,6 +3,8 @@
 # Realtek Gaming 2.5GbE Family Controller
 # 7.26.26
 
+# https://github.com/diazdizazter/OnlineGamingNetworkOverhaul
+
 # order of operations 
 # HOGNO_net_stack > HOGNO_RT_8125_Reg > HOGNO_RT_8125_Hw
 
